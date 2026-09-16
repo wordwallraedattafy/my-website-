@@ -179,7 +179,7 @@
       </div>
       <div class="field">
         <label for="subjectSelect">المادة الدراسية</label>
-        <select id="subjectSelect"></select>
+        <select id="subjectSelect"></select> 
       </div>
       <div class="field" id="subjectOtherWrap" style="display:none;">
         <label for="subjectOther">اسم المادة</label>
